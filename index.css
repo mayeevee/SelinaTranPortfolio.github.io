@@ -1,0 +1,33 @@
+body {
+        background-color: #ffcccc; /* light pink background color */
+        color: #ff66b2; /* pink text color */
+        font-family: 'Arial', sans-serif; /* cute font */
+    }
+
+    /* Navbar styling */
+    .navbar {
+        background-color: #ff99cc; /* light pink navbar background color */
+    }
+
+    /* Footer styling */
+    footer {
+        background-color: #ff99cc; /* light pink footer background color */
+    }
+
+    /* Custom container styles */
+    .container {
+        padding: 20px; /* Add padding to create space around content */
+    }
+
+    /* Custom button styles */
+    .btn {
+        background-color: #ff99cc; /* light pink button background color */
+        color: #ff66b2; /* pink button text color */
+    }
+
+    /* Custom form styles */
+    form {
+        background-color: #ffcccc; /* light pink form background color */
+        padding: 10px; /* Add padding to the form */
+        border: 1px solid #ff66b2; /* Pink border */
+    }
