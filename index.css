@@ -1,7 +1,4 @@
-.portfolio-item {
-    display: flex;
-    flex-direction: column;
-}
 .portfolio-item img {
-    margin-bottom: 10px;
+    display: block; 
+    margin-bottom: 10px; 
 }
